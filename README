@@ -1,0 +1,8 @@
+This is the repo for UM NLP CISC7021(Master)/STGC8002(PhD) experiments, assignments and projects.
+
+# Ass1 - Evaluate a Tiny Llama-2 Model
+In this assignment, you will conduct a series of experiments using the Llama-2 architecture (Touvron et al., 2023). Tasks will include generating stories, evaluating perplexity (PPL), and continuing the pre-training process with an additional language. These activities will help you deepen your understanding of the Llama-2 model. All experiments will utilize resources from PyTorch and HuggingFace libraries, providing a practical framework for applying these advanced tools.
+
+# Ass2 - 
+
+# Course Project - 
