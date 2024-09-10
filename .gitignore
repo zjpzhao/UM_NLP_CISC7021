@@ -1,1 +1,3 @@
 assignment1/llama-42m/pytorch_model.bin
+assignment1/llama-42m-zh-fairytales/checkpoint-2000/model.safetensors
+assignment1/llama-42m-zh-fairytales/checkpoint-2000/optimizer.pt
