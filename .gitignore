@@ -1,3 +1,6 @@
 assignment1/llama-42m/pytorch_model.bin
 assignment1/llama-42m-zh-fairytales/checkpoint-2000/model.safetensors
 assignment1/llama-42m-zh-fairytales/checkpoint-2000/optimizer.pt
+
+assignment2/llama-42m-sst5-full-tune/*
+assignment2/llama-42m-rto-full-tune/* 
